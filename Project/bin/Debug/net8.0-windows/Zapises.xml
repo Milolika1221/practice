@@ -1,0 +1,5 @@
+<Zapises Doctor="а" DataAndTime="20 января 14:00" Allergia="а" Diseases="Василий Чернов" SpecialDoctor="Главный врач">
+  <zapis name="Кузнецов Валерий Викторович" date="2024-12-23" NumberPhone="84567658778" />
+  <zapis name="А" date="2024-12-23" NumberPhone="уу" />
+  <zapis name="Кузнецов Валерий Викторович" date="23 декабря 2024 г." NumberPhone="84567658778" Doctor="Василий Чернов" DataAndTime="20 января 14:00" Allergia="d" Diseases="d" SpecialDoctor="Главный врач" />
+</Zapises>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Authorisation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_MainDoctor_Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_MainDoctor_Zapis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_MainDoctor_Zayvka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_ManagerFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_ManagerFood_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_Pharmaceutist_Medicines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_Pharmaceutist_Zayvka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_registrator_Blank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modul_Registrator_Zapis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
